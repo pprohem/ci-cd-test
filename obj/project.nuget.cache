@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gra4P3DW0JwYStQBUUMJHOpYaJbBNl+r2OPARNEtRTk0u3fltHWToMx/qum6kNbqyfv74+1WS0J02/+RoM6xGg==",
+  "success": true,
+  "projectFilePath": "D:\\NekiRepos\\CICDMath\\app-math\\AppMathCICD\\AppMathCICD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pprg0\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
